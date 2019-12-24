@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(58, 57, 82);
+    color:rgb(148, 233, 148);
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    font-size:10rem;
+    margin-top:10px;
+}
+text{
+    font-size:3rem;
+    position:inline;
+}
+p{
+    margin-bottom:30px;
+    font-family: 'Dancing Script', cursive;
+}
+.player1{
+    margin-bottom:0px;
+    
+}
+.player2{
+    margin-left:190px;
+    margin-bottom:50px;
+    margin-top:0px;
+}
+img{
+
+   width:230px;
+   height:230px;
+   border-radius: 25px;
+   margin:0px 50px;
+   background:white;
+}
