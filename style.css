@@ -1,35 +1,28 @@
 body{
-    background-color: rgb(58, 57, 82);
-    color:rgb(148, 233, 148);
-    text-align: center;
+    background-color: #393E46;
+    color: #4ECCA3;
     font-family: 'Lobster', cursive;
 }
-h1{
-    font-size:10rem;
-    margin-top:10px;
+.container{
+   text-align: center;
+   width:70%;
+   margin:auto; 
 }
-text{
-    font-size:3rem;
-    position:inline;
+h1{
+    font-size:8rem;
+    font-family: 'Lobster', cursive;
+    margin:30px;
+    text-shadow: 5px 0 #232931;
 }
 p{
-    margin-bottom:30px;
-    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    color:#4ECCA3;
+    font-family: "Indie Flower",cursive;
 }
-.player1{
-    margin-bottom:0px;
-    
-}
-.player2{
-    margin-left:190px;
-    margin-bottom:50px;
-    margin-top:0px;
+.dice{
+   display: inline-block;
+   text-align: center;
 }
 img{
-
-   width:230px;
-   height:230px;
-   border-radius: 25px;
-   margin:0px 50px;
-   background:white;
+   width:80%;
 }
